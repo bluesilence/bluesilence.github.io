@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://bluesilence.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Cat in the Morning
+subtitle: A blog for a girl who sells code
+author: GirlWhoSellsCode
 simple_search: http://google.com/search
-description:
+description: A girl who loves cat, and sometimes loves geek
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
